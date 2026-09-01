@@ -1,9 +1,9 @@
 {
   "mappings": [
-    "/content/arundemo-eds-stage/:/",
-    "/content/arundemo-eds-stage/redirects:/redirects.json"
+    "/content/demo-eds-stage/:/",
+    "/content/demo-eds-stage/redirects:/redirects.json"
   ],
   "includes": [
-    "/content/arundemo-eds-stage/"
+    "/content/demo-eds-stage/"
   ]
 }
