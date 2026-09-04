@@ -1,7 +1,9 @@
 {
   "mappings": [
     "/content/demo-eds-stage/:/",
-    "/content/demo-eds-stage/redirects:/redirects.json"
+    "/content/demo-eds-stage/redirects:/redirects.json",
+    "/content/demo-eds-stage/configuration:/.helix/config.json",
+    "/content/demo-eds-stage/metadata:/metadata.json"
   ],
   "includes": [
     "/content/demo-eds-stage/"
